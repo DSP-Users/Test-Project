@@ -1,0 +1,1 @@
+{"name":"doSomething","environmentVariables":["DEBUG=1"],"parameters":["--help-me"],"title":"doSomething"}
